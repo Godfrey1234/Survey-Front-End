@@ -1,0 +1,114 @@
+<div id = "body1">
+
+    <div class = "content" >
+
+        <table class="table" align="center">
+	    
+            <tr class="tr">
+                <th>Ratings</th>
+                <th>Results</th>
+            </tr>
+    
+            <tr> 	
+            <th><p>Total number of Surveys </p></th>
+            <th><p>{{this.tot}}</p></th>
+            </tr>
+    
+            <tr>
+            <th><p>Average age </p></th>
+            <th><p >{{this.age}}</p></th>
+            </tr>
+    
+            <tr>
+            <th><p>Oldest person who participated in survey </p></th>
+            <th><p>{{this.old}}</p></th>
+            </tr>
+    
+            <tr>
+            <th><p>Youngest  person who participated </p></th>
+            <th><p>{{this.young}}</p></th>
+            </tr>
+    
+    
+        </table>
+    
+            <br>
+    
+         <table class="table" align="center">
+            
+            <tr class="tr">
+                <th>Food Category Ratings</th>
+                <th>Results</th>
+            </tr>
+    
+            <tr> 	
+            <th><p>Percentage of people who like Pizza    </p></th>
+            <th><p>{{this.pizza}}</p></th>
+            </tr>
+    
+            <tr>
+            <th><p>Percentage of people who like Pasta </p></th>
+            <th><p>{{this.pasta}}</p></th>
+            </tr>
+    
+            <tr>
+            <th><p>Percentage of people who like Pap and Wors </p></th>
+            <th><p>{{this.papANdWors}}</p></th>
+            </tr>
+    
+        </table >
+    
+    
+         <br>
+         <table class="table" align="center">
+            
+            <tr class="tr">
+                <th>Hobby Ratings</th>
+                <th>Results</th>
+            </tr>
+    
+            <tr> 	
+            <th><p>People who like to eat out     </p></th>
+            <th><p>{{this.eatOut}}</p></th>
+            </tr>
+    
+            <tr>
+            <th><p>People who like to watch Movies </p></th>
+            <th><p>{{this.movies}}</p></th>
+            </tr>
+    
+            <tr>
+            <th><p>People who like to watch tv  </p></th>
+            <th><p>{{this.tv}}</p></th>
+            </tr>
+    
+            <tr>
+            <th><p>People who like to listen to radio  </p></th>
+            <th><p>{{this.radio}}</p></th>
+            </tr>
+    
+        </table>
+
+    <br>
+    <form #userPost="ngForm" (ngSubmit)="onSubmit(userPost.value)">
+        <div style="text-align: center;">
+            <button type="submit" id="SubmitBtn" ><span>Ok</span> </button>
+        </div>
+        </form>
+
+      
+        
+        
+
+
+
+
+    </div>
+
+
+
+    
+
+
+
+</div>

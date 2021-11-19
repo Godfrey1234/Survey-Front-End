@@ -1,0 +1,44 @@
+
+#body1{
+
+    background-image: url('/assets/s1.jpg');
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+    margin-top: 0;
+    padding-bottom: auto;
+}
+
+.content{
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    background-color: rgba(36, 32, 32, 0.575);
+    width: 80%;
+    height: 50%;
+     
+  }
+  p{
+      color: white;
+  }
+  
+  #btn
+  {
+      height: 100px;
+      width: 300px;
+      background-color: rgba(194, 107, 36, 0.836);;
+      text-align: center;
+  
+  }
+
+
+  
+  #btn:hover{
+      color: white;
+      background-color: transparent;
+  }
+  
+  

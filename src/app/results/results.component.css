@@ -1,0 +1,69 @@
+#body1{
+
+  color: white;
+  text-align: left;
+}
+
+
+#body1{
+
+  background-image: url('/assets/s1.jpg');
+  background-size: cover;
+  height: 1050px;
+  width: 100%;
+  margin-top: 0;
+  padding-bottom: auto;
+}
+#SubmitBtn{
+
+  height: 100px;
+  width: 80%;
+  background-color: rgba(194, 107, 36, 0.836);
+  text-align: center;
+
+
+}
+
+.content{
+
+    position: absolute;
+    left: 50%;
+    top:80%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    background-color: rgba(36, 32, 32, 0.575);
+    width: 80%;
+    padding-bottom: 10%;
+     
+  }
+
+  #SubmitBtn{
+
+    height: 100px;
+    width: 80%;
+    background-color: rgba(194, 107, 36, 0.836);
+    text-align: center;
+
+
+  }
+  
+.tr th{
+    background-color:rgba(194, 107, 36, 0.836);
+    width: auto;
+    height: 55px;
+    
+
+}  
+
+table{
+     background-color: rgba(128, 128, 128, 0.781);
+     width: 80%;
+     height: 200px;
+     box-sizing: content-box;
+    
+     border-width: 10%;
+     border: black;
+     
+    
+     
+}
