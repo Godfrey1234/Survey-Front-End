@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: ng-image-slider.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { NgImageSliderService, NgImageSliderComponent, NgImageSliderModule } from './public_api';
+export { SliderCustomImageComponent as ɵa } from './lib/slider-custom-image/slider-custom-image.component';
+export { SliderLightboxComponent as ɵb } from './lib/slider-lightbox/slider-lightbox.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmctaW1hZ2Utc2xpZGVyLmpzIiwic291cmNlUm9vdCI6Im5nOi8vbmctaW1hZ2Utc2xpZGVyLyIsInNvdXJjZXMiOlsibmctaW1hZ2Utc2xpZGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7O0FBSUEsa0ZBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQywwQkFBMEIsSUFBSSxFQUFFLEVBQUMsTUFBTSx5REFBeUQsQ0FBQztBQUN6RyxPQUFPLEVBQUMsdUJBQXVCLElBQUksRUFBRSxFQUFDLE1BQU0saURBQWlELENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIEdlbmVyYXRlZCBidW5kbGUgaW5kZXguIERvIG5vdCBlZGl0LlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vcHVibGljX2FwaSc7XG5cbmV4cG9ydCB7U2xpZGVyQ3VzdG9tSW1hZ2VDb21wb25lbnQgYXMgybVhfSBmcm9tICcuL2xpYi9zbGlkZXItY3VzdG9tLWltYWdlL3NsaWRlci1jdXN0b20taW1hZ2UuY29tcG9uZW50JztcbmV4cG9ydCB7U2xpZGVyTGlnaHRib3hDb21wb25lbnQgYXMgybVifSBmcm9tICcuL2xpYi9zbGlkZXItbGlnaHRib3gvc2xpZGVyLWxpZ2h0Ym94LmNvbXBvbmVudCc7Il19
