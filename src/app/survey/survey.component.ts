@@ -26,6 +26,7 @@ export class SurveyComponent implements OnInit {
     //On submit validation
     if(result == 'Thank you for completing this survey')
     {
+      this.router.navigate(['/results']);
       Swal.fire(
         result,
         '',
